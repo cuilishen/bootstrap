@@ -4,7 +4,7 @@
   summary: >
     Link to container with id and tabindex results in container being ignored by VoiceOver (affects skip links)
   upstream_bug: >
-    WebKit#163658
+    kk
   origin: >
     Bootstrap#20732
     
@@ -19,8 +19,7 @@
     Bootstrap#20755
 
 -
-  browser: >
-    Edge
+  browser: >    Edge
   summary: >
     Native browser tooltip for `title` shows on first keyboard focus (in addition to custom tooltip component)
   upstream_bug: >
@@ -30,8 +29,7 @@
 
 -
   browser: >
-    Edge
-  summary: >
+    Edge  summary: >
     Hovered element still remains in `:hover` state after scrolling away.
   upstream_bug: >
     Edge#5381673
